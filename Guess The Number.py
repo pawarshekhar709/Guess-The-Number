@@ -1,3 +1,7 @@
+#Author Name:-Shekhar Pawar 
+#Project Name:-Guess The Number.
+
+
 import random
 randNumber = random.randint(1, 100)
 userGuess = None
